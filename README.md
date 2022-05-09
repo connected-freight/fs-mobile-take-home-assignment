@@ -1,1 +1,1 @@
-# rn-take-home-assignment
+# fullstack-mobile-take-home-assignment
