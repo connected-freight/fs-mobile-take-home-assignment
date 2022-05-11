@@ -1,2 +1,8 @@
+# Node files
+/node_modules
+
+# Test files
+/coverage
+
 # OS files
 .DS_Store
