@@ -5,7 +5,8 @@
     "question-2"
   ],
   "scripts": {
-    "test": "jest"
+    "web": "cd question-1 && yarn web",
+    "test": "cd question-2 && yarn test"
   },
   "devDependencies": {
     "jest": "^26.6.3",
